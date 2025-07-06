@@ -51,7 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HashUnlockerPatcher.cs" />
+    <Compile Include="HashUnlockerPatch.cs" />
     <Compile Include="Mod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RemoveCodexCardPatch.cs" />

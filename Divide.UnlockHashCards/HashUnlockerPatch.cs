@@ -8,7 +8,7 @@ using UnityEngine;
 namespace Divide.UnlockHashCards
 {
     [HarmonyPatch(typeof(GameManager), "ClearLoadScreen")]
-    internal static class HashUnlockerPatcher
+    internal static class HashUnlockerPatch
     {
         static void Postfix()
         {

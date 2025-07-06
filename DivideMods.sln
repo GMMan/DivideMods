@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divide.PlayerInvincibility", "Divide.PlayerInvincibility\Divide.PlayerInvincibility.csproj", "{2711B2AC-A31F-42EB-BFFA-D38485814A68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divide.LOGDAlwaysVisible", "Divide.LOGDAlwaysVisible\Divide.LOGDAlwaysVisible.csproj", "{BD2555E8-C7EA-4453-9C8F-BFA94D502A07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divide.PlayerMovementSpeed", "Divide.PlayerMovementSpeed\Divide.PlayerMovementSpeed.csproj", "{B31924FA-7E23-4844-B2CC-84C2AC1367BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divide.UnlockHashCards", "Divide.UnlockHashCards\Divide.UnlockHashCards.csproj", "{4BBE9615-AA07-444A-B256-02A29FFF9898}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divide.Sandbox", "Divide.Sandbox\Divide.Sandbox.csproj", "{6656599B-3FCD-49FB-A7A5-86D4B352E163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divide.ARGlobalLighting", "Divide.ARGlobalLighting\Divide.ARGlobalLighting.csproj", "{FF8BBFD9-48F9-4CE6-8001-E3C7BEE77179}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2711B2AC-A31F-42EB-BFFA-D38485814A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2711B2AC-A31F-42EB-BFFA-D38485814A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2711B2AC-A31F-42EB-BFFA-D38485814A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2711B2AC-A31F-42EB-BFFA-D38485814A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD2555E8-C7EA-4453-9C8F-BFA94D502A07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2555E8-C7EA-4453-9C8F-BFA94D502A07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2555E8-C7EA-4453-9C8F-BFA94D502A07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2555E8-C7EA-4453-9C8F-BFA94D502A07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31924FA-7E23-4844-B2CC-84C2AC1367BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31924FA-7E23-4844-B2CC-84C2AC1367BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31924FA-7E23-4844-B2CC-84C2AC1367BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31924FA-7E23-4844-B2CC-84C2AC1367BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BBE9615-AA07-444A-B256-02A29FFF9898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBE9615-AA07-444A-B256-02A29FFF9898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBE9615-AA07-444A-B256-02A29FFF9898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBE9615-AA07-444A-B256-02A29FFF9898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6656599B-3FCD-49FB-A7A5-86D4B352E163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6656599B-3FCD-49FB-A7A5-86D4B352E163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6656599B-3FCD-49FB-A7A5-86D4B352E163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6656599B-3FCD-49FB-A7A5-86D4B352E163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF8BBFD9-48F9-4CE6-8001-E3C7BEE77179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8BBFD9-48F9-4CE6-8001-E3C7BEE77179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8BBFD9-48F9-4CE6-8001-E3C7BEE77179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8BBFD9-48F9-4CE6-8001-E3C7BEE77179}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AE1FD33-6696-434C-9353-EB4ED83F1B8F}
+	EndGlobalSection
+EndGlobal

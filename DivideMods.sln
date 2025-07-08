@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divide.PCInput", "Divide.PCInput\Divide.PCInput.csproj", "{EF4BB767-CD5D-4B30-9D2A-9AD4DA900548}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divide.EnableCameraDebug", "Divide.EnableCameraDebug\Divide.EnableCameraDebug.csproj", "{E59B1303-AA74-4600-BAAC-D2D1E28455FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{EF4BB767-CD5D-4B30-9D2A-9AD4DA900548}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF4BB767-CD5D-4B30-9D2A-9AD4DA900548}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF4BB767-CD5D-4B30-9D2A-9AD4DA900548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E59B1303-AA74-4600-BAAC-D2D1E28455FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E59B1303-AA74-4600-BAAC-D2D1E28455FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E59B1303-AA74-4600-BAAC-D2D1E28455FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E59B1303-AA74-4600-BAAC-D2D1E28455FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

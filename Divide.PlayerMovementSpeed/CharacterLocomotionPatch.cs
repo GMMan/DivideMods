@@ -10,7 +10,6 @@ using UnityEngine;
 namespace Divide.PlayerMovementSpeed
 {
     [HarmonyPatch(typeof(CharacterLocomotion), "Awake")]
-    [HarmonyDebug]
     internal static class CharacterLocomotionPatch
     {
         const float MULTIPLIER = 2.5f;

@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>..\Assembly-CSharp.dll</HintPath>
+    </Reference>
     <Reference Include="MelonLoader">
       <HintPath>D:\SteamLibrary\steamapps\common\Divide\MelonLoader\MelonLoader.dll</HintPath>
     </Reference>
@@ -45,9 +48,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CameraNormalDrawer.cs" />
     <Compile Include="Mod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RandomPositioner.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Divide.PCInput\Divide.PCInput.csproj">
+      <Project>{ef4bb767-cd5d-4b30-9d2a-9ad4da900548}</Project>
+      <Name>Divide.PCInput</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -20,6 +20,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divide.PCInput", "Divide.PCInput\Divide.PCInput.csproj", "{EF4BB767-CD5D-4B30-9D2A-9AD4DA900548}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -50,6 +52,10 @@ Global
 		{FF8BBFD9-48F9-4CE6-8001-E3C7BEE77179}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF8BBFD9-48F9-4CE6-8001-E3C7BEE77179}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF8BBFD9-48F9-4CE6-8001-E3C7BEE77179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF4BB767-CD5D-4B30-9D2A-9AD4DA900548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4BB767-CD5D-4B30-9D2A-9AD4DA900548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4BB767-CD5D-4B30-9D2A-9AD4DA900548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4BB767-CD5D-4B30-9D2A-9AD4DA900548}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
